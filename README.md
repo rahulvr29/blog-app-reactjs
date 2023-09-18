@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 
  ## Github Link 
   
-  Github link - [Click Here]()
+  Github link - [Click Here](https://github.com/rahulvr29/blog-app-reactjs)
 
 ## Live Url
   
